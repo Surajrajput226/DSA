@@ -1,0 +1,13 @@
+body{
+  background-color: rgb(196, 186, 239);
+}
+
+h1{
+  color: rgb(76, 33, 78);
+  text-align: center;
+  
+}
+
+hr{
+  border-style:single
+}
